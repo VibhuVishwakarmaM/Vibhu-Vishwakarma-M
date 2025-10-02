@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vibhu Vishwakarma M  
+# 👋 Hi , I'm Vibhu Vishwakarma M  
 
 🎓 Computer Science Engineering student at **Mysore College of Engineering and Management** (2024–2027).  
 💻 Passionate about **Web Development, DSA, AI/ML** and building cool projects.  
